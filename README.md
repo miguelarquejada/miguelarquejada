@@ -1,7 +1,7 @@
 ## Olá, sou o Miguel 👋
 
-🧑‍💻 Desenvolvedor de software
-🎓 Bacharelado em Ciência da Computação
+- 🧑‍💻 Desenvolvedor de software
+- 🎓 Bacharelado em Ciência da Computação
 
 
 
