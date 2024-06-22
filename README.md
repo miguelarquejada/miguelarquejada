@@ -1,8 +1,10 @@
 
 ## Olá, sou o Miguel 👋
 
-💻 Desenvolvedor de software <br/>
+💻 Desenvolvedor de Software <br/>
 🎓 Bacharelado em Ciência da Computação <br/>
+
+<br/>
 
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
