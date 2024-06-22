@@ -5,7 +5,7 @@
 🎓 Bacharelado em Ciência da Computação <br/>
 💻 Expertise em .NET Core <br/>
 
-Atualmente me especializando em aplicações distribuídas e design de software com Arquitetura Limpa e Domain-Driven-Design 💙
+Atualmente me especializando em aplicações distribuídas e design de software com <b>Arquitetura Limpa</b> e <b>Domain-Driven-Design</b> 💙
 
 ## Tecnologias
 
