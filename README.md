@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá, sou o Miguel 👋
+
+🧑‍💻 Desenvolvedor de software
+🎓 Bacharelado em Ciência da Computação
+
+
 
 <!--
 **miguelarquejada/miguelarquejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
