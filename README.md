@@ -1,8 +1,11 @@
 
 ## Olá, sou o Miguel 👋
 
-💻 Desenvolvedor de Software <br/>
+👨‍💻 Desenvolvedor de Software <br/>
 🎓 Bacharelado em Ciência da Computação <br/>
+💻 Expertise em .NET Core <br/>
+
+Atualmente me especializando em aplicações distribuídas e design de software com Arquitetura Limpa e Domain-Driven-Design 💙
 
 ## Tecnologias
 
