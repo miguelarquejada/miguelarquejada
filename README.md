@@ -3,7 +3,7 @@
 
 👨‍💻 Desenvolvedor de Software <br/>
 🎓 Bacharelado em Ciência da Computação <br/>
-💻 Expertise em .NET Core <br/>
+💻 Expertise em desenvolvimento de API's RESTFul com Asp Net Core 5+ <br/>
 
 Atualmente me especializando em aplicações distribuídas e design de software com <b>Arquitetura Limpa</b> e <b>Domain-Driven-Design</b> 💙
 
